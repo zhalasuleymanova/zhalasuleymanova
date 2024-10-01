@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlYELws9TUOe_BrKiYc2xvHaxFTuf1_GVLA&s" alt="Tableau" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
