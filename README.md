@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Analytics Project**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **Excel, MSSQL, Power BI, Tableu, Python, C, C++, C#, Linux**
 
